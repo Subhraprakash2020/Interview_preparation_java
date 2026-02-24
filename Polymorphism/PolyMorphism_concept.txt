@@ -1,0 +1,9 @@
+Polymorphism means many form.
+In Polymorphism allows one object to allow many form.
+
+Compile-Time Polymorphism (Static Binding)
+
+    Also called:
+    Method Overloading
+    Static polymorphism 
+    Early binding
