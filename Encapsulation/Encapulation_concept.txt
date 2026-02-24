@@ -1,0 +1,1 @@
+Encapsulation is the process of binding data and method together into a single unit and restricted to direct access to the data.
