@@ -1,0 +1,3 @@
+Abstraction means hiding implementation details and showing only essential features.
+
+Abstraction can be achived in 2 ways(Abstraction and Interface)
