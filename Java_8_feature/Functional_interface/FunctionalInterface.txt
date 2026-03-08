@@ -1,0 +1,18 @@
+Functional Interface : An interface with one abstract method.
+Example : Runnable, Callable, Comparator
+
+Why we need functional interface?
+Functional interface need to support lambda expression.
+It allow to write clean, concise, and functiona style code insted of anonymous classes.
+
+Before Java 8:
+
+Runnable r = new Runnable() {
+    public void run() {
+        System.out.println("Thread running");
+    }
+};
+
+After Java 8:
+
+Runnable r = () -> System.out.println("Thread running");

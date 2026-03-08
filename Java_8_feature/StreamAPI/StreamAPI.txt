@@ -1,0 +1,12 @@
+Stream API is used to to process the collections in functional style.
+
+| Method     | Purpose           |
+| ---------- | ----------------- |
+| filter()   | Filtering         |
+| map()      | Transformation    |
+| sorted()   | Sorting           |
+| distinct() | Remove duplicates |
+| limit()    | Limit elements    |
+| count()    | Count elements    |
+| collect()  | Convert to list   |
+| reduce()   | Combine values    |
