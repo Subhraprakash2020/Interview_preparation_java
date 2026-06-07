@@ -39,9 +39,26 @@
  We need to configure both producer and consumer in application.properties
 
 ## Create a model class.
+ Create a model claas Like Order, payment
+ public class Order {
+
+    private String orderId;
+    private String product;
+
+    // getters setters
+}
 
 ## Create a kafka producer.
+ "KafkaTemplete" is used to send messages.
 
 ## Create a REST API to send message.
+ Create REST API to send message 
 
 ## Creata a kafka consumer.
+ "@KafkaListener" is used to kafka topics.
+ Consumer automatically revieves message.
+
+# Event-Driven Architecture
+ Even-Drivern architecture is a software designe pattern where services communicate using events insted of direct calls.
+
+ 
